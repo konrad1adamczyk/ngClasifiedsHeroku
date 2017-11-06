@@ -1,0 +1,108 @@
+[
+  {
+    "id":"1",
+    "title":"20 Foot Equipment Trailer",
+    "description":"How can we know that our code complies with the requirements if we don’t write tests? How can we maintain and extend it without the fear that it will stop working? Code without tests is simply not clean. If you would like to get to know more about the pillars of unit testing I advise you to read a very nice article Three Pillars of Unit Tests written by one of my colleagues.",
+    "price":6000,
+    "posted":"2015-10-25",
+    "contact":{
+      "name":"John Doe",
+      "phone":"545 456 456",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Vehicles",
+      "Parts and Accessories"
+    ],
+    "image": "http://www.louisianasportsman.com/classifieds/pics/p1358549934434943.jpg",
+    "views":213
+  },
+  {
+    "id":"2",
+    "title":"canada goose jacket",
+    "description":"How can we know that our code complies with the requirements if we don’t write tests? How can we maintain and extend it without the fear that it will stop working? Code without tests is simply not clean. If you would like to get to know more about the pillars of unit testing I advise you to read a very nice article Three Pillars of Unit Tests written by one of my colleagues.",
+    "price":6000,
+    "posted":"2015-10-25",
+    "contact":{
+      "name":"John Doe",
+      "phone":"545 456 456",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Clothing"
+    ],
+    "image": "http://images.askmen.com/fashion/apparel/1262968738_canada-goose-jackets_6.jpg",
+    "views":213
+  },
+  {
+    "id":"3",
+    "title":"Baby crib and mattress",
+    "description":"How can we know that our code complies with the requirements if we don’t write tests? How can we maintain and extend it without the fear that it will stop working? Code without tests is simply not clean. If you would like to get to know more about the pillars of unit testing I advise you to read a very nice article Three Pillars of Unit Tests written by one of my colleagues.",
+    "price":6000,
+    "posted":"2015-10-25",
+    "contact":{
+      "name":"John Doe",
+      "phone":"545 456 456",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Furniture"
+    ],
+    "image": "http://www.babycache.com/images/comfort_crib_mattress/Ultra_room_oc.jpg",
+    "views":213
+  },
+  {
+    "id":"4",
+    "title":"Leather sofa",
+    "description":"How can we know that our code complies with the requirements if we don’t write tests? How can we maintain and extend it without the fear that it will stop working? Code without tests is simply not clean. If you would like to get to know more about the pillars of unit testing I advise you to read a very nice article Three Pillars of Unit Tests written by one of my colleagues.",
+    "price":900,
+    "posted":"2015-10-25",
+    "contact":{
+      "name":"John Doe",
+      "phone":"545 456 456",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Furniture"
+    ],
+    "image": "https://media.restorationhardware.com/is/image/rhis/prod1235006_R12?$l-pd1$",
+    "views":289
+  },
+  {
+    "id":"5",
+    "title":"MackBook Air",
+    "description":"How can we know that our code complies with the requirements if we don’t write tests? How can we maintain and extend it without the fear that it will stop working? Code without tests is simply not clean. If you would like to get to know more about the pillars of unit testing I advise you to read a very nice article Three Pillars of Unit Tests written by one of my colleagues.",
+    "price":6540,
+    "posted":"2015-10-25",
+    "contact":{
+      "name":"John Doe",
+      "phone":"545 456 456",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Electronics",
+      "Computers"
+    ],
+    "image": "http://cnet3.cbsistatic.com/hub/i/r/2012/06/14/783f0a6f-bb76-11e2-8a8e-0291187978f3/thumbnail/770x433/78fbe63388a29429a05ceb1a1ca6190d/MacBook_Air_13-inch_35330106_12.jpg",
+    "views":13
+  },
+  {
+    "id":"6",
+    "title":"Dodge Caliber",
+    "description":"How can we know that our code complies with the requirements if we don’t write tests? How can we maintain and extend it without the fear that it will stop working? Code without tests is simply not clean. If you would like to get to know more about the pillars of unit testing I advise you to read a very nice article Three Pillars of Unit Tests written by one of my colleagues.",
+    "price":60000,
+    "posted":"2015-10-25",
+    "contact":{
+      "name":"John Doe",
+      "phone":"545 456 456",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Vehicles",
+      "Cars"
+    ],
+    "image": "http://media.wheels.ca/vehicles/1277/940458/2008-Dodge-Caliber-940458-6-sm.jpg",
+    "views":25
+  }
+
+]
